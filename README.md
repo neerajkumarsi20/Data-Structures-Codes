@@ -1,6 +1,5 @@
 ## Data Structures
 
-![C++](https://img.shields.io/badge/C%2B%2B-Data%20Structures%20%26%20Algorithms-blue?logo=cpp)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
